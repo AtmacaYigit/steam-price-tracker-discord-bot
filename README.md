@@ -2,8 +2,6 @@
 
 A lightweight Python bot that checks Steam game prices using the official Steam Storefront API and sends rich Discord notifications when a tracked game is on sale.
 
-![Steam Price Tracker Demo](https://via.placeholder.com/600x400?text=Discord+Notification+Demo)
-
 ## ✨ Features
 
 * 🔎 Fetches game information and prices from the official Steam Storefront API
