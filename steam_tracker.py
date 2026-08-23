@@ -1,7 +1,7 @@
 import requests
 import json
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1540992368155689010/XK5IVXkR43z1Cfax4umplrB68WbhMqk7Yl28dS4IDZucZzAsjGcylslhTvUW_ffcdq8jYOUR_DISCORD_WEBHOOK_URL"
+DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
 TRACK_LIST = ["1091500", "292030"]  # Cyberpunk 2077, The Witcher 3
 
 
