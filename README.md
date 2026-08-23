@@ -24,3 +24,5 @@ pip install requests
 
 5. Run the script:
 python steam_tracker.py
+
+<img width="489" height="730" alt="image" src="https://github.com/user-attachments/assets/57543a28-3e94-4ee7-b5e7-0d256b08133a" />
