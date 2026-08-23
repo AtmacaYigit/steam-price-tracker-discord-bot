@@ -142,7 +142,3 @@ Possible improvements for future versions:
 The current version runs the price check when the Python script is executed. It does not yet include an internal scheduler or database for persistent price history.
 
 For continuous monitoring, the script can be executed periodically using tools such as **Windows Task Scheduler**, **cron**, or another external scheduling service.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
