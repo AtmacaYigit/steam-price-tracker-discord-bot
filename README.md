@@ -126,13 +126,13 @@ steam-price-tracker-discord-bot/
 
 Possible improvements for future versions:
 
-* [ ] Automatic scheduled price checks
+* [X] Automatic scheduled price checks
 * [ ] Price history tracking
 * [ ] SQLite database integration
 * [ ] Configurable discount thresholds
 * [ ] Discord slash commands
 * [ ] Add and remove tracked games directly from Discord
-* [ ] Prevent duplicate notifications for the same discount
+* [X] Prevent duplicate notifications for the same discount
 * [ ] Support multiple Discord servers/webhooks
 * [ ] Track regional Steam prices
 * [ ] Price history graphs
